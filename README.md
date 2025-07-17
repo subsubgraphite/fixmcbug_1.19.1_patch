@@ -16,9 +16,9 @@ and prepares the environment to better handle Nether world loading.
 ### ✅ How to Use
 
 1. Download the optimization script:  
-   [📥 Download optimize_nether.bat](https://github.com/subsubgraphite/fixmcbug_1.19.1_patch/blob/main/mcfix.bat)
+   [📥 Download mcfix.bat](https://github.com/subsubgraphite/fixmcbug_1.19.1_patch/blob/main/mcfix.bat)
 
-2. Right-click the file → "Run as Administrator"
+2. Right-click the file → "Run"
 
 3. Launch Minecraft and try entering the Nether again
 
