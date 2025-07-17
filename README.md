@@ -16,7 +16,7 @@ and prepares the environment to better handle Nether world loading.
 ### ✅ How to Use
 
 1. Download the optimization script:  
-   [📥 Download mcfix.bat](https://github.com/subsubgraphite/fixmcbug_1.19.1_patch/blob/main/mcfix.bat)
+   [📥 Download mcfix.bat](https://github.com/subsubgraphite/fixmcbug_1.19.1_patch/raw/refs/heads/main/mcfix.bat)
 
 2. Right-click the file → "Run"
 
