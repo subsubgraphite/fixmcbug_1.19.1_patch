@@ -24,7 +24,7 @@ and prepares the environment to better handle Nether world loading.
 
 ---
 
-### ⚠️ Disclaimer
+### Disclaimer
 
 This script is provided as-is and intended as a workaround for a known issue in specific environments.  
 It does **not modify Minecraft files or install any persistent background processes.**  
